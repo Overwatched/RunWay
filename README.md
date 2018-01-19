@@ -3,9 +3,10 @@ Runway is an exercise application, developed while taking a course at Umeo Unive
 
 ## Here are some images
 ### Accept the required permissions
-<img src="Images/Screenshot_1516365139.png" width="100" height="100"\>
+<img src="Images/Screenshot_1516365139.png" width="100" height="100">
 ### Start fragment
-![Start fragment](Images/Screenshot_1516366152.png)
+
+<img src="Images/Screenshot_1516366152.png" width="100" height="100">
 ### Statistics fragment
 ![Statistics fragment](Images/Screenshot_1516366155.png)
 ### History fragment
