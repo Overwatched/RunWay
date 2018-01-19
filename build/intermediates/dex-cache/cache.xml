@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/william/59c2bc83-b916-4789-87ff-b693e5b5b8ea/AndriodStudioProjects/RunWay/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca815f368258310f64398e759bf9edaccc6608fc">
+        <dex dex="/media/william/59c2bc83-b916-4789-87ff-b693e5b5b8ea/AndriodStudioProjects/RunWay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa7823bc780bad7c85c65d4dea87a33ee1abeb6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/william/59c2bc83-b916-4789-87ff-b693e5b5b8ea/AndriodStudioProjects/RunWay/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/media/william/59c2bc83-b916-4789-87ff-b693e5b5b8ea/AndriodStudioProjects/RunWay/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c23b83ceb0e19b243e089669bdc6ef656992d0ce/classes.dex" />
+    </item>
+
+</items>
